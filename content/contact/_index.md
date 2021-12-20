@@ -34,7 +34,10 @@ Please don't contact the sales teams with support questions. Instead, post quest
 <li><img src="/templates/brand/images/icons/CountryFlag-US.png"> USA</li>
 <li><i class="fa fa-phone">&nbsp;</i> +1 903 306 1676</li>
 <li><i class="fa fa-skype">&nbsp;</i> <a href="skype:conholdateptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
-<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloak7a35aaec6c616526af223054419ee8ab"><a href="mailto:sales@conholdate.cloud">sales@conholdate.cloud</a></span><script type="text/javascript">document.getElementById('cloak7a35aaec6c616526af223054419ee8ab').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy7a35aaec6c616526af223054419ee8ab='s&#97;l&#101;s'+'&#64;';addy7a35aaec6c616526af223054419ee8ab=addy7a35aaec6c616526af223054419ee8ab+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';var addy_text7a35aaec6c616526af223054419ee8ab='s&#97;l&#101;s'+'&#64;'+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';document.getElementById('cloak7a35aaec6c616526af223054419ee8ab').innerHTML+='<a '+path+'\''+prefix+':'+addy7a35aaec6c616526af223054419ee8ab+'\'>'+addy_text7a35aaec6c616526af223054419ee8ab+'<\/a>';</script></li>
+<li><i class="fa fa-envelope">&nbsp;</i> 
+<span id="cloak7a35aaec6c616526af223054419ee8ab">
+<a href="mailto:sales@conholdate.cloud">sales@conholdate.cloud</a></span>
+</li>
 </ul>
 </div>
 </div>
@@ -48,7 +51,7 @@ Please don't contact the sales teams with support questions. Instead, post quest
 <li><img src="/templates/brand/images/icons/CountryFlag-UK.png"> UK</li>
 <li><i class="fa fa-phone">&nbsp;</i> +44 141 628 8900</li>
 <li><i class="fa fa-skype">&nbsp;</i> <a href="skype:conholdateptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
-<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloakc5b4cdca21c9d59ff0ea4e994dcc49f2"><a href="mailto:sales@conholdate.cloud">sales@conholdate.cloud</a></span><script type="text/javascript">document.getElementById('cloakc5b4cdca21c9d59ff0ea4e994dcc49f2').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addyc5b4cdca21c9d59ff0ea4e994dcc49f2='s&#97;l&#101;s'+'&#64;';addyc5b4cdca21c9d59ff0ea4e994dcc49f2=addyc5b4cdca21c9d59ff0ea4e994dcc49f2+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';var addy_textc5b4cdca21c9d59ff0ea4e994dcc49f2='s&#97;l&#101;s'+'&#64;'+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';document.getElementById('cloakc5b4cdca21c9d59ff0ea4e994dcc49f2').innerHTML+='<a '+path+'\''+prefix+':'+addyc5b4cdca21c9d59ff0ea4e994dcc49f2+'\'>'+addy_textc5b4cdca21c9d59ff0ea4e994dcc49f2+'<\/a>';</script></li>
+<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloakc5b4cdca21c9d59ff0ea4e994dcc49f2"><a href="mailto:sales@conholdate.cloud">sales@conholdate.cloud</a></span></li>
 </ul>
 </div>
 </div>
@@ -61,7 +64,7 @@ Please don't contact the sales teams with support questions. Instead, post quest
 <li><img src="/templates/brand/images/icons/CountryFlag-AUSTRALIA.png"> Australia</li>
 <li><i class="fa fa-phone">&nbsp;</i> +61 2 8006 6987</li>
 <li><i class="fa fa-skype">&nbsp;</i> <a href="skype:conholdateptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
-<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloak431cd164513f03838db6544c34676b19"><a href="mailto:sales@conholdate.cloud">sales@conholdate.cloud</a></span><script type="text/javascript">document.getElementById('cloak431cd164513f03838db6544c34676b19').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy431cd164513f03838db6544c34676b19='s&#97;l&#101;s'+'&#64;';addy431cd164513f03838db6544c34676b19=addy431cd164513f03838db6544c34676b19+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';var addy_text431cd164513f03838db6544c34676b19='s&#97;l&#101;s'+'&#64;'+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';document.getElementById('cloak431cd164513f03838db6544c34676b19').innerHTML+='<a '+path+'\''+prefix+':'+addy431cd164513f03838db6544c34676b19+'\'>'+addy_text431cd164513f03838db6544c34676b19+'<\/a>';</script></li>
+<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloak431cd164513f03838db6544c34676b19"><a href="mailto:sales@conholdate.cloud">sales@conholdate.cloud</a></span></li>
 </ul>
 </div>
 </div>

@@ -21,7 +21,8 @@ menu:
 
 Conholdate cares deeply about the environment and acts responsibly to avoid any negative environmental impact. As such, Conholdate has a strict paperless policy meaning we do not send paper to customers and aim to reduce incoming paper to our offices to as close to zero as possible.
 
-<p>If you have any queries or concerns about our paperless policy, please contact us on <span id="cloake566fd97cf47e4ece0caf4a19babb7ae"><a href="mailto:sales@conholdate.cloud" rel="alternate">sales@conholdate.cloud</a></span><script type="text/javascript">document.getElementById('cloake566fd97cf47e4ece0caf4a19babb7ae').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addye566fd97cf47e4ece0caf4a19babb7ae='s&#97;l&#101;s'+'&#64;';addye566fd97cf47e4ece0caf4a19babb7ae=addye566fd97cf47e4ece0caf4a19babb7ae+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';var addy_texte566fd97cf47e4ece0caf4a19babb7ae='s&#97;l&#101;s'+'&#64;'+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';document.getElementById('cloake566fd97cf47e4ece0caf4a19babb7ae').innerHTML+='<a '+path+'\''+prefix+':'+addye566fd97cf47e4ece0caf4a19babb7ae+'\' rel="alternate">'+addy_texte566fd97cf47e4ece0caf4a19babb7ae+'<\/a>';</script>, we'll respond within 12 hours of receiving your request (during weekdays).</p>
+<p>If you have any queries or concerns about our paperless policy, please contact us on <span id="cloake566fd97cf47e4ece0caf4a19babb7ae">
+<a href="mailto:sales@conholdate.cloud" rel="alternate">sales@conholdate.cloud</a></span>, we'll respond within 12 hours of receiving your request (during weekdays).</p>
 
 Due to international mail services, writing to us at our postal address can take anything up to 21 days for us to receive and reply to your message, use this email address to get a prompt response to any query.
 
