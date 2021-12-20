@@ -69,7 +69,7 @@ Thirdly, we process your personal data for our legitimate interests in line with
 - Responsible marketing of our products, services and their features.
 - The ability to service the contract we are entering into with you, our customer.
 
-As the controller for your personal data, Conholdate is committed to the respect of your rights under the GDPR. If you have any questions, please contact our Data Protection Officer on <span id="cloak58393eb08726446b5ca0ae9f72f0951a">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak58393eb08726446b5ca0ae9f72f0951a').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy58393eb08726446b5ca0ae9f72f0951a='dp&#111;'+'&#64;';addy58393eb08726446b5ca0ae9f72f0951a=addy58393eb08726446b5ca0ae9f72f0951a+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';var addy_text58393eb08726446b5ca0ae9f72f0951a='dp&#111;'+'&#64;'+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'cl&#111;&#117;d';document.getElementById('cloak58393eb08726446b5ca0ae9f72f0951a').innerHTML+='<a '+path+'\''+prefix+':'+addy58393eb08726446b5ca0ae9f72f0951a+'\'>'+addy_text58393eb08726446b5ca0ae9f72f0951a+'<\/a>';</script>
+<p>As the controller for your personal data, Conholdate is committed to the respect of your rights under the GDPR. If you have any questions, please contact our Data Protection Officer on <span id="cloak58393eb08726446b5ca0ae9f72f0951a"><a href="mailto:dpo@conholdate.cloud">dpo@conholdate.cloud</a></span></p>
 
 <div class="clearfix"> </div>
 
